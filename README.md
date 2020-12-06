@@ -8,10 +8,11 @@
 
 ## Содержание репозитория
 
-* grammeme_tagger.odp - презентация проекта
+* <a href='https://github.com/GURJEW/grammeme-tagger/blob/master/grammeme_tagger.odp'>grammeme_tagger.odp</a> - презентация проекта
 * grammeme_tagger.odt - описание проекта (автореферат)
 * 
 
+    test
 
     1. tensorflow
     2. numpy
