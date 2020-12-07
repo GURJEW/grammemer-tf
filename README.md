@@ -4,23 +4,12 @@
 
 Это мой дипломный проект, выполненный в процессе прохождения курса "Data Science, нейронные сети, машинное обучение и искусственный интеллект" ООО "Университет искусственного интеллекта".
 
-Код проекта построчно покрыт мной русскоязычными комментариями, так как он использовался в качестве учебного пособия для студентов следующих потоков.
+Код проекта построчно покрыт русскоязычными комментариями, так как он использовался в качестве учебного пособия для студентов следующих потоков.
 
 ## Содержание репозитория
 
 * <a href='https://github.com/GURJEW/grammeme-tagger/blob/master/grammeme_tagger.odp'>grammeme_tagger.odp</a> - презентация проекта
-* grammeme_tagger.odt - описание проекта (автореферат)
-* 
-
-    test
-
-    1. tensorflow
-    2. numpy
-    3. pandas
-    4. sklearn
-    5. matplotlib
-    6. pymorphy2
-    7. re
-    8. selenium
-    9. requests
-    10. bs4
+* <a href='https://github.com/GURJEW/grammeme-tagger/blob/master/grammeme_tagger.odt'>grammeme_tagger.odt</a> - описание проекта (автореферат)
+* <a href='https://github.com/GURJEW/grammeme-tagger/blob/master/network_tagger.ipynb'>network_tagger.ipynb</a> - реализация нейронной сети и результаты обучения
+* <a href='https://github.com/GURJEW/grammeme-tagger/blob/master/probability_tagget.ipynb'>probability_tagget.ipynb</a> - скрипт для разметки текстов с помощию библиотеки **pymorphy2** с вероятностным алгоритмом снятия омонимии
+* <a href='https://github.com/GURJEW/grammeme-tagger/blob/master/vectorizer.ipynb'>vectorizer.ipynb</a> - скрипт векторизации текста
