@@ -11,5 +11,5 @@
 * <a href='https://github.com/GURJEW/grammeme-tagger/blob/master/grammeme_tagger.odp'>grammeme_tagger.odp</a> - презентация проекта
 * <a href='https://github.com/GURJEW/grammeme-tagger/blob/master/grammeme_tagger.odt'>grammeme_tagger.odt</a> - описание проекта (автореферат)
 * <a href='https://github.com/GURJEW/grammeme-tagger/blob/master/network_tagger.ipynb'>network_tagger.ipynb</a> - реализация нейронной сети и результаты обучения
-* <a href='https://github.com/GURJEW/grammeme-tagger/blob/master/probability_tagget.ipynb'>probability_tagget.ipynb</a> - скрипт для разметки текстов с помощию библиотеки **pymorphy2** с вероятностным алгоритмом снятия омонимии
+* <a href='https://github.com/GURJEW/grammeme-tagger/blob/master/probability_tagget.ipynb'>probability_tagget.ipynb</a> - скрипт для предварительной разметки текстов с вероятностным снятием омонимии
 * <a href='https://github.com/GURJEW/grammeme-tagger/blob/master/vectorizer.ipynb'>vectorizer.ipynb</a> - скрипт векторизации текста
